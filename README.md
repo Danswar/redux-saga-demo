@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Redux Saga Demo
+
+Demo para probar las funcionalidades de la libreria redux-saga.
 
 ## Available Scripts
 
